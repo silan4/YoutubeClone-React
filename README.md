@@ -1,6 +1,6 @@
 # YoutubeClone-React
 
-![](/public/YoutubeClone.gif)
+![](/public/YoutubeClonee.gif)
 
 
 # Libraries Used
