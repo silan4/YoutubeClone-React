@@ -1,6 +1,6 @@
 # YoutubeClone-React
 
-![]([/public/YoutubeClonee.gif](https://github.com/silan4/YoutubeClone-React/blob/main/youtubeclonee.gif))
+![](https://github.com/silan4/YoutubeClone-React/blob/main/youtubeclonee.gif)
 
 
 # Libraries Used
